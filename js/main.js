@@ -1,0 +1,2 @@
+var log=document.getElementById("log"),scrollPos=0;function logScroll(o){0<o.pageY?console.log("Opfa!"):console.log("Spack!"),scrollPos=o.pageY}document.onscroll=logScroll;
+//# sourceMappingURL=main.js.map

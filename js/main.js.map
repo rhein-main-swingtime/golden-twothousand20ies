@@ -1,0 +1,1 @@
+{"version":3,"sources":["../lib/js/main.js"],"names":["log","document","getElementById","scrollPos","logScroll","e","pageY","console","onscroll"],"mappings":"AAAA,IAAIA,IAAMC,SAASC,eAAe,OAE9BC,UAAY,EAEhB,SAASC,UAAUC,GACD,EAAVA,EAAEC,MACFC,QAAQP,IAAI,SAGhBO,QAAQP,IAAI,UAEZG,UAAYE,EAAEC,MAGlBL,SAASO,SAAWJ","file":"main.js"}

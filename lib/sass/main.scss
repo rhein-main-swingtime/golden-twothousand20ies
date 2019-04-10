@@ -1,0 +1,100 @@
+
+$c-dark: #0b0b0b;
+$c-primary: #f0d600;
+$c-secondary: #7c6f00;
+$c-dark: #0a0a0a;
+$c-gray: #111;
+$c-gray-light: #666;
+$c-white: #bbbbbb;
+$ff-base: "Segoe UI", "Raleway", Helvetica, sans-serif;
+$fz-big: 19px;
+$c-badge-colored: $c-gray;
+$fw-base: 300;
+$fw-normal: 300;
+$bdr-button: 2px;
+$m-button: 0;
+$bdr-medium: 4px;
+
+
+$bg-tag-dot: $c-gray;
+$bg-tag: $c-primary;
+$bdr-tag: 0 $bdr-medium $bdr-medium 0;
+$c-tag: $c-dark;
+$lh-tag: 16px;
+$m-tag: 0 0 0 0;
+$p-tag: 10px;
+$size-tag-dot: 5px;
+
+@import 'index'; // Sierra Library
+
+.ltag {
+  background-color: $bg-tag;
+  border-radius: $bdr-tag;
+  color: $c-tag;
+  display: inline-block;
+  line-height: $lh-tag;
+  margin: $m-tag;
+  padding: $p-tag;
+  position: relative;
+
+  // triangle arrow
+  &::before {
+    border-bottom: ($lh-tag / 2) + $p-tag solid transparent;
+    border-right: $p-tag solid $bg-tag;
+    border-top: ($lh-tag / 2) + $p-tag solid transparent;
+    content: '';
+    height: 0;
+    position: absolute;
+    left: -$p-tag;
+    top: 0;
+    width: 0;
+  }
+
+  // dot
+  &::after {
+    background: $bg-tag-dot;
+    border-radius: 100%;
+    content: '';
+    height: $size-tag-dot;
+    margin-top: -$size-tag-dot / 2;
+    position: absolute;
+    left: -$size-tag-dot / 2;
+    top: 50%;
+    width: $size-tag-dot;
+  }
+}
+
+.upper {
+  text-transform: uppercase;}
+
+.main-logo {
+  width: 10rem;
+  background-color: $c-primary;
+}
+
+.main-logo-box {
+  width: 100%;
+  height: 20em;
+  min-width: 20em;
+  background-color: $c-secondary;
+}
+
+.page {
+  max-width: 60rem;
+}
+
+.event {
+  width: 100%;
+  min-height: 5rem;
+  background-color: $c-secondary;
+}
+
+.main-content {
+  width: 100%;
+  background-color: $c-gray;
+}
+
+body {
+  color: $c-white;
+  background-color: $c-black;
+}
