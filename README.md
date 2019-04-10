@@ -15,3 +15,11 @@ wip:
     - [ ] to dance
     - [ ] to find people
     - [ ] to embedd the calendar
+
+
+# how to use the repo
+
+* when fetched and npm installed:
+  * run `npm install`
+  * run `grunt dev`
+  * hack away
