@@ -1,0 +1,26 @@
+{
+    "facebook_groups": {
+        "name": {
+            "de": "Facebook Gruppen",
+            "en": "Facebook groups"
+        },
+        "children": [
+            {
+                "name": "Swing In Frankfurt Am Main",
+                "desc": {
+                    "de": "rund ums Swing-Tanzen in Frankfurt",
+                    "en": "all about Swing-Dancing in Frankfurt"
+                },
+                "public": false
+            },
+            {
+                "name": "Swing Out d'or Wiesbaden",
+                "desc": {
+                    "de": "rund ums Swing-Tanzen in Wiesbaden",
+                    "en": "all about Swing-Dancing in Wiesbaden"
+                },
+                "public": true
+            }
+        ]
+    }
+}

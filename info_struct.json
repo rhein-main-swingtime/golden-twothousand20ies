@@ -1,0 +1,23 @@
+[
+    {
+        "key": "learn",
+        "children":[
+            "teachers",
+            "dancing_schools",
+            "unions",
+            "universities"
+        ]
+    },
+    {
+        "key": "dance",
+        "children": [
+            "facebook_groups",
+            "parties",
+            "bands",
+            "deejays"
+        ]
+    },
+    {
+        "key": "misc"
+    }
+]
