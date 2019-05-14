@@ -1,0 +1,534 @@
+{
+  "Bands": [
+    {
+      "desc": "R\u00fcsselsheim",
+      "homepage": "http://iksbigband.de",
+      "name": "IKS Big Band"
+    },
+    {
+      "desc": "Frankfurt",
+      "homepage": "http://jubileejumpers.de",
+      "name": "Jubilee Jumpers"
+    },
+    {
+      "homepage": "http://mauricekuehn.de",
+      "name": "Maurice K\u00fchn Trio"
+    },
+    {
+      "homepage": "http://triohef.de",
+      "name": "Trio HEF zu Viert"
+    },
+    {
+      "desc": "R\u00fcsselsheim",
+      "homepage": "http://iksbigband.de",
+      "name": "IKS Big Band"
+    },
+    {
+      "desc": "Frankfurt",
+      "homepage": "http://jubileejumpers.de",
+      "name": "Jubilee Jumpers"
+    },
+    {
+      "homepage": "http://mauricekuehn.de",
+      "name": "Maurice K\u00fchn Trio"
+    },
+    {
+      "homepage": "http://triohef.de",
+      "name": "Trio HEF zu Viert"
+    }
+  ],
+  "DJs": [
+    {
+      "desc": "Frankfurt",
+      "homepage": "http://music.jumpinjive.com/html/aktuell.htm) / [![](/images/facebook.jpg)](https://facebook.com/DJKaiserL",
+      "name": "Schallplattenunterhalter Kaiser L"
+    },
+    {
+      "desc": "Frankfurt",
+      "homepage": "http://jovannelsen.de/aktuelle-programme/schellack-dj",
+      "name": "Jo van Nelsen"
+    },
+    {
+      "desc": "Frankfurt",
+      "homepage": "http://music.jumpinjive.com/html/aktuell.htm) / [![](/images/facebook.jpg)](https://facebook.com/DJKaiserL",
+      "name": "Schallplattenunterhalter Kaiser L"
+    },
+    {
+      "desc": "Frankfurt",
+      "homepage": "http://jovannelsen.de/aktuelle-programme/schellack-dj",
+      "name": "Jo van Nelsen"
+    }
+  ],
+  "Dancing Schools": [
+    {
+      "desc": "Frankfurt Bahnhofsviertel",
+      "homepage": "https://monika-bauer.de",
+      "name": "Tanzschule Monika Bauer"
+    },
+    {
+      "desc": "Frankfurt H\u00f6chst",
+      "homepage": "http://die-tanzschule.de",
+      "name": "Die Tanzschule C. Weber"
+    },
+    {
+      "desc": "Wiesbaden",
+      "homepage": "http://tanzatelier.info/",
+      "name": "Tanzatelier Ralf S"
+    },
+    {
+      "desc": "Friedrichsdorf",
+      "homepage": "https://taktgefuehl.de/erwachsene/lindy-hop",
+      "name": "Taktgef\u00fchl Tanzschule"
+    },
+    {
+      "desc": "Darmstadt",
+      "homepage": "http://balboa-heiner.de) @ [Tanzwerkstatt ](http://tanzwerkstatt.de",
+      "name": "Balboa-Heiner"
+    },
+    {
+      "desc": "Frankfurt Bockenheim",
+      "homepage": "https://sugarfootswing.de",
+      "name": "SugarfootSwing"
+    }
+  ],
+  "Facebook Groups": [
+    {
+      "desc": "all around swing dancing in **Frankfurt**",
+      "face_group": "1442899695957970",
+      "name": "Swing In Frankfurt Am Main",
+      "public": false
+    },
+    {
+      "desc": "all around swing dancing in **Wiesbaden**",
+      "face_group": "222069277804935",
+      "name": "Swing Out d\u2019or Wiesbaden",
+      "public": true
+    },
+    {
+      "desc": "all around swing dancing in **Mainz**",
+      "face_group": "317930771663002",
+      "name": "Swing In Mainz",
+      "public": true
+    },
+    {
+      "desc": "all around swing dancing in **Darmstadt**",
+      "face_group": "202862923090162",
+      "name": "Darmstadt Swing & Friends",
+      "public": true
+    },
+    {
+      "desc": "for organizing trips to international workshops cooperatively",
+      "face_group": "Rheinmaingoesworkshop",
+      "name": "Rhein-Main goes Workshop",
+      "public": false
+    },
+    {
+      "desc": "about random, out-door, free social swing dance events in the area",
+      "face_group": "490692287651143",
+      "name": "Swing Attacke",
+      "public": false
+    },
+    {
+      "desc": "swing dancing in and around **Frankfurt**",
+      "face_group": "680509751994581",
+      "name": "Swing Is Just Around The Corner",
+      "public": true
+    },
+    {
+      "face_group": "395357990544635",
+      "name": "Frankfurt Blues Dancing",
+      "public": true
+    },
+    {
+      "desc": "swing dancing in and around **Frankfurt**",
+      "face_group": "48505773375",
+      "name": "Hop The Main",
+      "public": true
+    },
+    {
+      "desc": "**Frankfurt**",
+      "face_group": "392286414141165",
+      "name": "Balboa in Frankfurt",
+      "public": false
+    }
+  ],
+  "Facebook Gruppen": [
+    {
+      "desc": "rund ums Swing-Tanzen in **Frankfurt**",
+      "face_group": "1442899695957970",
+      "name": "Swing In Frankfurt Am Main",
+      "public": false
+    },
+    {
+      "desc": "rund ums Swing-Tanzen in **Wiesbaden**",
+      "face_group": "222069277804935",
+      "name": "Swing Out d\u2019or Wiesbaden",
+      "public": true
+    },
+    {
+      "desc": "rund ums Swing-Tanzen in **Mainz**",
+      "face_group": "317930771663002",
+      "name": "Swing In Mainz",
+      "public": true
+    },
+    {
+      "desc": "rund ums Swing-Tanzen in **Darmstadt**",
+      "face_group": "202862923090162",
+      "name": "Darmstadt Swing & Friends",
+      "public": true
+    },
+    {
+      "desc": "zum koordinieren von Fahrten zu internationalen Workshops",
+      "face_group": "Rheinmaingoesworkshop",
+      "name": "Rhein-Main goes Workshop",
+      "public": false
+    },
+    {
+      "desc": "spontanes Swing-Tanzen umsonst und drau\u00dfen",
+      "face_group": "490692287651143",
+      "name": "Swing Attacke",
+      "public": false
+    },
+    {
+      "desc": "swing dancing in und um **Frankfurt**",
+      "face_group": "680509751994581",
+      "name": "Swing Is Just Around The Corner",
+      "public": true
+    },
+    {
+      "face_group": "395357990544635",
+      "name": "Frankfurt Blues Dancing",
+      "public": true
+    },
+    {
+      "desc": "swing dancing in und um **Frankfurt**",
+      "face_group": "48505773375",
+      "name": "Hop The Main",
+      "public": true
+    },
+    {
+      "desc": "**Frankfurt**",
+      "face_group": "392286414141165",
+      "name": "Balboa in Frankfurt",
+      "public": false
+    }
+  ],
+  "Lehrer": [
+    {
+      "desc": "Frankfurt H\u00f6chst",
+      "homepage": "http://swing-frankfurt.de",
+      "name": "Anna & Carsten"
+    },
+    {
+      "desc": "Wiesbaden und Frankfurt",
+      "homepage": "http://tanzatelier.info/tanzschule-in-wiesbaden/unser-team/bruno-hargittay",
+      "name": "Bruno"
+    },
+    {
+      "desc": "Frankfurt",
+      "name": "Cornelia & Volker \ud83d\udce7",
+      "url": "mailto:volkerundcornelia@gmx.de"
+    },
+    {
+      "desc": "Solo-Jazz - Frankfurt"
+    },
+    {
+      "desc": "Frankfurt"
+    },
+    {
+      "desc": "Michael Lamanns Home Of Happy Feet Frankfurt",
+      "name": "Michael & Diana !",
+      "url": "/images/facebook.jpg)](https://facebook.com/groups/495469870660120"
+    },
+    {
+      "desc": "Frankfurt",
+      "name": "Strick & Salty \ud83d\udce7",
+      "url": "mailto:ausderzeitgefallen@gmail.com"
+    },
+    {
+      "desc": "Swing Cats - Mainz",
+      "homepage": "http://swingcats-mainz.de",
+      "name": "Andy & Jeanne"
+    },
+    {
+      "desc": "Frankfurt und Offenbach",
+      "name": "Birgit \ud83d\udce7",
+      "url": "mailto:birgit@hop-the-main.de"
+    },
+    {
+      "desc": "Offenbach",
+      "homepage": "https://swingjets.de",
+      "name": "Swing Jets"
+    },
+    {
+      "desc": "R\u00fcsselsheim",
+      "name": "Marcus & Silja !",
+      "url": "/images/facebook.jpg)](https://facebook.com/SDSection"
+    },
+    {
+      "desc": "Wiesbaden"
+    },
+    {
+      "desc": "Wiesbaden"
+    },
+    {
+      "desc": "Mainz",
+      "name": "Lindy Farr \ud83d\udce7",
+      "url": "mailto:Lindy_Farr@web.de"
+    }
+  ],
+  "Other Websites": [],
+  "Parties": [
+    {
+      "desc": "hilft und unterst\u00fctzt bei der Organisation von Swing, Lindy Hop, Balboa, Boogie und Blues Partys in Frankfurt und Rhein-Main.",
+      "name": "Swing Schicht !",
+      "url": "/images/facebook.jpg)](https://facebook.com/swingschicht"
+    },
+    {
+      "desc": "W\u00f6chentliche Jam Session im [Orange Peel](http://orange-peel.de) Frankfurt",
+      "name": "Spotlight On Swing !",
+      "url": "/images/facebook.jpg)](https://facebook.com/swingingsession"
+    },
+    {
+      "desc": "helps and supports the organisation of Swing, Lindy Hop, Balboa, Boogie and Blues parties in Frankfurt and Rhine-Main.",
+      "name": "Swing Schicht !",
+      "url": "/images/facebook.jpg)](https://facebook.com/swingschicht"
+    },
+    {
+      "desc": "Weekly Jam Session at [Orange Peel](http://orange-peel.de) Frankfurt",
+      "name": "Spotlight On Swing !",
+      "url": "/images/facebook.jpg)](https://facebook.com/swingingsession"
+    }
+  ],
+  "Societies": [
+    {
+      "desc": "Offenbach",
+      "homepage": "https://swingjets.de) / [![](/images/facebook.jpg)](https://facebook.com/swingjets",
+      "name": "Swing Jets"
+    },
+    {
+      "desc": "der IKS Big Band R\u00fcsselsheim",
+      "name": "IKS Swing Dance Section !",
+      "url": "/images/facebook.jpg)](https://facebook.com/SDSection"
+    },
+    {
+      "desc": "Mainz",
+      "homepage": "http://swing-tanzen.de) / [![](/images/facebook.jpg)](https://facebook.com/lindyhopmainz",
+      "name": "1. Lindy Boogie Hoppers Club"
+    },
+    {
+      "desc": "Sportverein N\u00e4he Frankfurter Zoo",
+      "homepage": "http://ftv1860.de/activities/lindy-hop",
+      "name": "FTV Ravenstein"
+    },
+    {
+      "desc": "Lindy Hop) - Sportverein Frankfurt Bockenheim",
+      "homepage": "http://ftg-sportfabrik.de) (Premium-Kurse > Swing Tanzen",
+      "name": "FTG Sportfabrik Frankfurt"
+    },
+    {
+      "homepage": "/images/facebook.jpg)](https://facebook.com/Swing-Heiner-338149636379458/) / [Balboa-Heiner ](http://balboa-heiner.de)",
+      "name": "Darmstadt SwingHeiner !",
+      "url": "/images/facebook.jpg)](https://facebook.com/Swing-Heiner-338149636379458/) / [Balboa-Heiner ](http://balboa-heiner.de"
+    },
+    {
+      "desc": "Wiesbaden",
+      "homepage": "http://swinginwiesbaden.de",
+      "name": "Swinginwiesbaden e.V."
+    }
+  ],
+  "Tanzschulen": [
+    {
+      "desc": "Frankfurt Bahnhofsviertel",
+      "homepage": "https://monika-bauer.de",
+      "name": "Tanzschule Monika Bauer"
+    },
+    {
+      "desc": "Frankfurt H\u00f6chst",
+      "homepage": "http://die-tanzschule.de",
+      "name": "Die Tanzschule C. Weber"
+    },
+    {
+      "desc": "Wiesbaden",
+      "homepage": "http://tanzatelier.info/",
+      "name": "Tanzatelier Ralf S"
+    },
+    {
+      "desc": "Friedrichsdorf",
+      "homepage": "https://taktgefuehl.de/erwachsene/lindy-hop",
+      "name": "Taktgef\u00fchl Tanzschule"
+    },
+    {
+      "desc": "Darmstadt",
+      "homepage": "http://balboa-heiner.de) @ [Tanzwerkstatt ](http://tanzwerkstatt.de",
+      "name": "Balboa-Heiner"
+    },
+    {
+      "desc": "Frankfurt Bockenheim",
+      "homepage": "https://sugarfootswing.de",
+      "name": "SugarfootSwing"
+    }
+  ],
+  "Teachers": [
+    {
+      "desc": "Frankfurt H\u00f6chst",
+      "homepage": "http://swing-frankfurt.de",
+      "name": "Anna & Carsten"
+    },
+    {
+      "desc": "Wiesbaden und Frankfurt",
+      "homepage": "http://tanzatelier.info/tanzschule-in-wiesbaden/unser-team/bruno-hargittay",
+      "name": "Bruno"
+    },
+    {
+      "desc": "Frankfurt",
+      "name": "Cornelia & Volker \ud83d\udce7",
+      "url": "mailto:volkerundcornelia@gmx.de"
+    },
+    {
+      "desc": "Solo-Jazz - Frankfurt"
+    },
+    {
+      "desc": "Frankfurt"
+    },
+    {
+      "desc": "Michael Lamanns Home Of Happy Feet Frankfurt",
+      "name": "Michael & Diana !",
+      "url": "/images/facebook.jpg)](https://facebook.com/groups/495469870660120"
+    },
+    {
+      "desc": "Frankfurt",
+      "name": "Strick & Salty \ud83d\udce7",
+      "url": "mailto:ausderzeitgefallen@gmail.com"
+    },
+    {
+      "desc": "Swing Cats - Mainz",
+      "homepage": "http://swingcats-mainz.de",
+      "name": "Andy & Jeanne"
+    },
+    {
+      "desc": "Frankfurt und Offenbach",
+      "name": "Birgit \ud83d\udce7",
+      "url": "mailto:birgit@hop-the-main.de"
+    },
+    {
+      "desc": "Offenbach",
+      "homepage": "https://swingjets.de",
+      "name": "Swing Jets"
+    },
+    {
+      "desc": "R\u00fcsselsheim",
+      "name": "Marcus & Silja !",
+      "url": "/images/facebook.jpg)](https://facebook.com/SDSection"
+    },
+    {
+      "desc": "Wiesbaden"
+    },
+    {
+      "desc": "Wiesbaden"
+    },
+    {
+      "desc": "Mainz",
+      "name": "Lindy Farr \ud83d\udce7",
+      "url": "mailto:Lindy_Farr@web.de"
+    }
+  ],
+  "Unis": [
+    {
+      "desc": "Swing & Boogie-Woogie",
+      "homepage": "https://zfh-db.sport.uni-frankfurt.de/angebote/aktueller_zeitraum/_Swing_u__Boogie-Woogie.html",
+      "name": "Goethe Uni Hochschulsport"
+    },
+    {
+      "desc": "Darmstadt Stadtmitte \ud83c\udf10](https://online-anmeldung.usz.tu-darmstadt.de/sportarten/aktueller_zeitraum/index.html#bs_as) - verschiedene Angebote Swing ..."
+    }
+  ],
+  "Universities": [
+    {
+      "desc": "Swing & Boogie-Woogie",
+      "homepage": "https://zfh-db.sport.uni-frankfurt.de/angebote/aktueller_zeitraum/_Swing_u__Boogie-Woogie.html",
+      "name": "Goethe Uni Hochschulsport"
+    },
+    {
+      "desc": "Darmstadt Stadtmitte \ud83c\udf10](https://online-anmeldung.usz.tu-darmstadt.de/sportarten/aktueller_zeitraum/index.html#bs_as) - verschiedene Angebote Swing ..."
+    }
+  ],
+  "Vereine": [
+    {
+      "desc": "Offenbach",
+      "homepage": "https://swingjets.de) / [![](/images/facebook.jpg)](https://facebook.com/swingjets",
+      "name": "Swing Jets"
+    },
+    {
+      "desc": "der IKS Big Band R\u00fcsselsheim",
+      "name": "IKS Swing Dance Section !",
+      "url": "/images/facebook.jpg)](https://facebook.com/SDSection"
+    },
+    {
+      "desc": "Mainz",
+      "homepage": "http://swing-tanzen.de) / [![](/images/facebook.jpg)](https://facebook.com/lindyhopmainz",
+      "name": "1. Lindy Boogie Hoppers Club"
+    },
+    {
+      "desc": "Sportverein N\u00e4he Frankfurter Zoo",
+      "homepage": "http://ftv1860.de/activities/lindy-hop",
+      "name": "FTV Ravenstein"
+    },
+    {
+      "desc": "Lindy Hop) - Sportverein Frankfurt Bockenheim",
+      "homepage": "http://ftg-sportfabrik.de) (Premium-Kurse > Swing Tanzen",
+      "name": "FTG Sportfabrik Frankfurt"
+    },
+    {
+      "homepage": "/images/facebook.jpg)](https://facebook.com/Swing-Heiner-338149636379458/) / [Balboa-Heiner ](http://balboa-heiner.de)",
+      "name": "Darmstadt SwingHeiner !",
+      "url": "/images/facebook.jpg)](https://facebook.com/Swing-Heiner-338149636379458/) / [Balboa-Heiner ](http://balboa-heiner.de"
+    },
+    {
+      "desc": "Wiesbaden",
+      "homepage": "http://swinginwiesbaden.de",
+      "name": "Swinginwiesbaden e.V."
+    }
+  ],
+  "Weitere Webseiten": [],
+  "Where To Learn?": [],
+  "Wo Tanzen Lernen?": [],
+  "and ...": [
+    {
+      "homepage": "http://swingdance-frankfurt.de",
+      "name": "Swingdance-Frankfurt.de"
+    },
+    {
+      "homepage": "https://swingffm.de",
+      "name": "SwingFFM.de"
+    },
+    {
+      "desc": "Englisch",
+      "homepage": "https://goo.gl/4M7tSh",
+      "name": "Stephanies Calendar \"Swing dancing in Frankfurt\""
+    },
+    {
+      "homepage": "http://hop-the-main.de",
+      "name": "Hop-the-Main.de"
+    }
+  ],
+  "und ...": [
+    {
+      "homepage": "http://swingdance-frankfurt.de",
+      "name": "Swingdance-Frankfurt.de"
+    },
+    {
+      "homepage": "https://swingffm.de",
+      "name": "SwingFFM.de"
+    },
+    {
+      "desc": "Englisch",
+      "homepage": "https://goo.gl/4M7tSh",
+      "name": "Stephanies Kalender \"Swing dancing in Frankfurt\""
+    },
+    {
+      "homepage": "http://hop-the-main.de",
+      "name": "Hop-the-Main.de"
+    }
+  ]
+}

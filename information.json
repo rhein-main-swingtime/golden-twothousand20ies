@@ -4,22 +4,52 @@
             "de": "Facebook Gruppen",
             "en": "Facebook groups"
         },
-        "children": [
+        "defaults": {
+            "desc": {
+                "de": "rund ums Swing-Tanzen in {area}",
+                "en": "all about Swing-Dancing in {area}"
+            },
+            "url": "https://facebook.com/groups/{face_group}"
+        },
+        "items": [
             {
                 "name": "Swing In Frankfurt Am Main",
-                "desc": {
-                    "de": "rund ums Swing-Tanzen in Frankfurt",
-                    "en": "all about Swing-Dancing in Frankfurt"
-                },
-                "public": false
+                "public": false,
+                "face_group": 1442899695957970,
+                "area": "Frankfurt"
             },
             {
                 "name": "Swing Out d'or Wiesbaden",
-                "desc": {
-                    "de": "rund ums Swing-Tanzen in Wiesbaden",
-                    "en": "all about Swing-Dancing in Wiesbaden"
-                },
-                "public": true
+                "public": true,
+                "face_group": 222069277804935,
+                "area": "Wiesbaden"
+            },
+            {
+                "name": "Swing In Mainz",
+
+            }
+        ]
+    },
+    "bands": {
+        "name": "Bands",
+        "items": [
+            {
+                "name": "IKS Big Band",
+                "homepage": "http://iksbigband.de",
+                "area": "Rüsselsheim"
+            },
+            {
+                "area": "Frankfurt",
+                "homepage": "http://jubileejumpers.de",
+                "name": "Jubilee Jumpers"
+            },
+            {
+                "homepage": "http://mauricekuehn.de",
+                "name": "Maurice Kühn Trio"
+            },
+            {
+                "homepage": "http://triohef.de",
+                "name": "Trio HEF zu Viert"
             }
         ]
     }
