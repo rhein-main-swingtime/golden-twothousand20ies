@@ -1,0 +1,17 @@
+{
+    "label": {
+        "de": "Kürzel",
+        "en": "shorthands"
+    },
+    "areas": {
+        "Darmstadt": "d",
+        "Frankfurt": "f",
+        "Hanau": "h",
+        "Taunus": "t",
+        "Mainz": "m",
+        "Griesheim": "g",
+        "Offenbach": "o",
+        "Rüsselsheim": "r",
+        "Wiesbaden": "w"
+    }
+}
