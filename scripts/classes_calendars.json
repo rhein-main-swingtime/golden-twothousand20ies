@@ -12,8 +12,8 @@
         "de": "{title} von {name} aus {area}"
     },
     "sub_calendar_title": {
-        "de": "Dieser Kalender hat mehrere Quellen. Im einzelnen sind das:",
-        "en": "This calendar has multiple sources. Individually these are:"
+        "de": "Dieser Kalender hat mehrere Quellen. Im einzelnen sind das",
+        "en": "This calendar has multiple sources. Individually these are"
     },
     "sources": {
         "SwingJets": {
@@ -59,7 +59,7 @@
             "facebook": ""
         },
         "Die Tanzschule Carsten Weber": {
-            "short_id": "nnmbsl8464ifogcl3ld3lr1cs8",
+            "short_id": "gra30fbljle0jkmlig7vhh6a50",
             "embed_id": "Z3JhMzBmYmxqbGUwamttbGlnN3ZoaDZhNTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
             "area": "Frankfurt Höchst",
             "homepage": "https://die-tanzschule.de",
