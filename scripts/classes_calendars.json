@@ -1,0 +1,61 @@
+{
+    "direct_url_template": "https://calendar.google.com/calendar/embed?src={short_id}%40group.calendar.google.com&ctz=Europe%2FBerlin",
+    "calendar_id_template": "{short_id}@group.calendar.google.com",
+    "embed_template": "https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src={sources}&amp;color=%23E67C73&amp;showPrint=0&amp;showTz=0&amp;title=RheinMain%20Classes%20Time",
+    "sources_sep": "&amp;src=",
+    "default_desc" : {
+        "en": "Swing-dance-classes of {name} from {area}",
+        "de": "Swing-Tanz-Kurse von {name} aus {area}"
+    },
+    "sources": {
+        "SwingJets": {
+            "short_id": "m9nbdkdcg6iqj26ibrjpbfrf5g",
+            "embed_id": "bTluYmRrZGNnNmlxajI2aWJyanBiZnJmNWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+            "area": "Offenbach",
+            "homepage": "https://swingjets.de",
+            "facebook": "https://facebook.com/swingjets"
+        },
+        "SugarfootSwing": {
+            "short_id": "gqreb03fnju5fllmjpo57rekfs",
+            "embed_id": "Z3FyZWIwM2ZuanU1ZmxsbWpwbzU3cmVrZnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+            "area": "Frankfurt",
+            "homepage": "https://sugarfootswing.de",
+            "facebook": "https://facebook.com/sugarfootswing.de"
+        },
+        "Tanzschule Monika Bauer": {
+            "short_id": "lgd7gr75ujoli3lkv2glhf0be8",
+            "embed_id": "bGdkN2dyNzV1am9saTNsa3YyZ2xoZjBiZThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+            "area": "Frankfurt",
+            "homepage": "https://monika-bauer.de",
+            "facebook": "https://facebook.com/Tanzschule-Monika-Bauer-162684157077418"
+        },
+        "Balboa am Zoo": {
+            "short_id": "604i9nv2bq2uj137jp3jb1adno",
+            "embed_id": "NjA0aTludjJicTJ1ajEzN2pwM2piMWFkbm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+            "area": "Frankfurt",
+            "homepage": "http://ftv1860.de/jazz-2",
+            "facebook": "https://facebook.com/FTV-Tuesday-Night-Hopping-255153484553953"
+        },
+        "Michael Lamanns Home Of Happy Feet": {
+            "short_id": "eu8sm52fk3u1j3it7sp78iai1o",
+            "embed_id": "ZXU4c201MmZrM3UxajNpdDdzcDc4aWFpMW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+            "area": "Frankfurt",
+            "facebook": "https://facebook.com/Michael-Lamanns-Home-of-Happy-Feet-879168805626170",
+            "homepage": ""
+        },
+        "Brian & Johanna": {
+            "short_id": "esn33tvop7djbvp8a8gnv7oigg",
+            "embed_id": "ZXNuMzN0dm9wN2RqYnZwOGE4Z252N29pZ2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+            "area": "Wiesbaden",
+            "homepage": "",
+            "facebook": ""
+        },
+        "Die Tanzschule Carsten Weber": {
+            "short_id": "nnmbsl8464ifogcl3ld3lr1cs8",
+            "embed_id": "Z3JhMzBmYmxqbGUwamttbGlnN3ZoaDZhNTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+            "area": "Frankfurt Höchst",
+            "homepage": "https://die-tanzschule.de",
+            "facebook": "https://facebook.com/groups/150620218826"
+        }
+    }
+}
