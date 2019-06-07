@@ -1,0 +1,23 @@
+{
+    "label": "Bands",
+    "items": [
+        {
+            "name": "IKS Big Band",
+            "homepage": "http://iksbigband.de",
+            "area": "Rüsselsheim"
+        },
+        {
+            "name": "Jubilee Jumpers",
+            "area": "Frankfurt",
+            "homepage": "http://jubileejumpers.de"
+        },
+        {
+            "name": "Maurice Kühn Trio",
+            "homepage": "http://mauricekuehn.de"
+        },
+        {
+            "name": "Trio HEF zu Viert",
+            "homepage": "http://triohef.de"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "label": "DJs",
+    "items": [
+        {
+            "name": "Schallplattenunterhalter Kaiser L",
+            "homepage": "http://music.jumpinjive.com/html/aktuell.htm",
+            "facebook": "https://facebook.com/DJKaiserL",
+            "area": "Frankfurt"
+        },
+        {
+            "name": "Jo van Nelsen",
+            "homepage": "http://jovannelsen.de/aktuelle-programme/schellack-dj",
+            "area": "Frankfurt"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "label": {
+        "de": "Tanzschulen",
+        "en": "Dancing Schools"
+    },
+    "items": [
+        {
+            "name": "Tanzschule Monika Bauer",
+            "area": "Frankfurt Bahnhofsviertel",
+            "homepage": "https://monika-bauer.de"
+        },
+        {
+            "name": "Die Tanzschule Carsten Weber",
+            "area": "Frankfurt Höchst",
+            "homepage": "http://die-tanzschule.de"
+        },
+        {
+            "name": "Taktgefühl Tanzschule",
+            "area": "Friedrichsdorf",
+            "homepage": "https://taktgefuehl.de/erwachsene/lindy-hop"
+        },
+        {
+            "name": "Balboa-Heiner",
+            "area": "Darmstadt",
+            "desc": "@ [Tanzwerkstatt](http://tanzwerkstatt.de)",
+            "homepage": "http://balboa-heiner.de"
+        },
+        {
+            "name": "SugarfootSwing",
+            "area": "Frankfurt Bockenheim",
+            "homepage": "https://sugarfootswing.de"
+        }
+    ]
+}

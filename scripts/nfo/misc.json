@@ -1,0 +1,25 @@
+{
+    "label": {
+        "de": "Und ...",
+        "en": "And ..."
+    },
+    "items": [
+        {
+            "homepage": "http://swingdance-frankfurt.de",
+            "name": "Swingdance-Frankfurt.de"
+        },
+        {
+            "homepage": "https://swingffm.de",
+            "name": "SwingFFM.de"
+        },
+        {
+            "desc": "Englisch",
+            "homepage": "https://goo.gl/4M7tSh",
+            "name": "Stephanies Calendar \"Swing dancing in Frankfurt\""
+        },
+        {
+            "homepage": "http://hop-the-main.de",
+            "name": "Hop-the-Main.de"
+        }
+    ]
+}

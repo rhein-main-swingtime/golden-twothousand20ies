@@ -1,0 +1,57 @@
+{
+    "label": {
+        "de": "Lehrer",
+        "en": "Teachers"
+    },
+    "items": [
+        {
+            "name": "Anna & Carsten",
+            "area": "Frankfurt Höchst",
+            "homepage": "http://swing-frankfurt.de"
+        },
+        {   
+            "name": "Bruno",
+            "homepage": "http://tanzatelier.info/tanzschule-in-wiesbaden/unser-team/bruno-hargittay",
+            "area": "Wiesbaden und Frankfurt"
+        },
+        {
+            "name": "Cornelia & Volker",
+            "area": "Frankfurt",
+            "mail": "volkerundcornelia@gmx.de"
+        },
+        {
+            "name": "Michael & Diana",
+            "desc": "Michael Lamanns Home Of Happy Feet Frankfurt",
+            "facebook": "https://facebook.com/groups/495469870660120"
+        },
+        {
+            "name": "Strick & Salty",
+            "area": "Frankfurt",
+            "mail": "ausderzeitgefallen@gmail.com"
+        },
+        {
+            "name": "Andy & Jeanne",
+            "desc": "Swing Cats - Mainz",
+            "homepage": "http://swingcats-mainz.de"
+        },
+        {
+            "name": "Birgit",
+            "area": "Frankfurt und Offenbach",
+            "mail": "birgit@hop-the-main.de"
+        },
+        {
+            "name": "Lindy Farr",
+            "area": "Mainz",
+            "mail": "Lindy_Farr@web.de"
+        },
+        {
+            "name": "SwingJets",
+            "area": "Offenbach",
+            "homepage": "https://swingjets.de"
+        },
+        {
+            "name": "Katja & Hennie",
+            "area": "Frankfurt"
+        }
+    ]
+}
