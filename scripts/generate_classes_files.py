@@ -11,9 +11,8 @@ title: '{title}'
 taxonomy:
     category:
         - calendar
-visible: false
 ---\n\n""")
-SITE = 'https://rmswing.de/{lang}/classes-2'
+SITE = 'https://rmswing.de/{lang}/classes'
 
 
 def main():
