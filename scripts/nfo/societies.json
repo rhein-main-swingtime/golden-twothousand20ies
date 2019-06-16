@@ -26,64 +26,25 @@
             "facebook": "https://facebook.com/lindyhopmainz"
         },
         {
-            "name": "FTV Ravenstein",
+            "name": "Jazz an Zeil und Zoo",
             "desc": {
-                "de": "Sportverein Nähe Zoo",
-                "en": "Sportsclub near the zoo"
+                "de": "Die Jazzabteilung des Sportvereins FTV1860: Förderung klassischen Jazz und Swing. Für Musikliebhaber und Swingtänzer.",
+                "en": "The jazz department of the FTV1860 sports club: promotion of classical jazz and swing. For music lovers and swing dancers."
             },
             "area": "Frankfurt",
-            "homepage": "http://ftv1860.de/activities/lindy-hop"
+            "homepage": "http://ftv1860.de/jazz-2"
         },
-    {
-        "name": "FTG Sportfabrik Frankfurt",
-        "desc": "Lindy Hop) - Sportverein Frankfurt Bockenheim",
-        "homepage": "http://ftg-sportfabrik.de) (Premium-Kurse > Swing Tanzen",
-    },
-    {
-      "homepage": "/images/facebook.jpg)](https://facebook.com/Swing-Heiner-338149636379458/) / [Balboa-Heiner ](http://balboa-heiner.de)",
-      "name": "Darmstadt SwingHeiner !",
-      "url": "/images/facebook.jpg)](https://facebook.com/Swing-Heiner-338149636379458/) / [Balboa-Heiner ](http://balboa-heiner.de"
-    },
-    {
-      "desc": "Wiesbaden",
-      "homepage": "http://swinginwiesbaden.de",
-      "name": "Swinginwiesbaden e.V."
-    }
-
-
-    
-    {
-        "desc": "Offenbach",
-        "homepage": "https://swingjets.de) / [![](/images/facebook.jpg)](https://facebook.com/swingjets",
-        "name": "Swing Jets"
-      },
-      {
-        "desc": "der IKS Big Band R\u00fcsselsheim",
-        "name": "IKS Swing Dance Section !",
-        "url": "/images/facebook.jpg)](https://facebook.com/SDSection"
-      },
-      {
-        "desc": "Mainz",
-        "homepage": "http://swing-tanzen.de) / [![](/images/facebook.jpg)](https://facebook.com/lindyhopmainz",
-        "name": "1. Lindy Boogie Hoppers Club"
-      },
-      {
-        "desc": "Sportverein N\u00e4he Frankfurter Zoo",
-        "homepage": "http://ftv1860.de/activities/lindy-hop",
-        "name": "FTV Ravenstein"
-      },
-      {
-        "desc": "Lindy Hop) - Sportverein Frankfurt Bockenheim",
-        "homepage": "http://ftg-sportfabrik.de) (Premium-Kurse > Swing Tanzen",
-        "name": "FTG Sportfabrik Frankfurt"
-      },
-      {
-        "homepage": "/images/facebook.jpg)](https://facebook.com/Swing-Heiner-338149636379458/) / [Balboa-Heiner ](http://balboa-heiner.de)",
-        "name": "Darmstadt SwingHeiner !",
-        "url": "/images/facebook.jpg)](https://facebook.com/Swing-Heiner-338149636379458/) / [Balboa-Heiner ](http://balboa-heiner.de"
-      },
-      {
-        "desc": "Wiesbaden",
-        "homepage": "http://swinginwiesbaden.de",
-        "name": "Swinginwiesbaden e.V."
-      }
+        {
+          "name": "Balboa-Heiner/Swing-Heiner",
+          "area": "Darmstadt",
+          "facebook": "https://facebook.com/Swing-Heiner-338149636379458",
+          "homepage": "https://www.balboa-heiner.de"
+        },
+        {
+          "name": "Swinginwiesbaden e.V.",
+          "area": "Wiesbaden",
+          "homepage": "http://swinginwiesbaden.de",
+          "facebook": "https://facebook.com/pages/Swinginwiesbaden-e-V/253123175324049"
+        }
+    ]
+}

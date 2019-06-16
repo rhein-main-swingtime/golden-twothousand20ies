@@ -5,13 +5,23 @@
     },
     "items": [
         {
+            "name": "Brian & Johanna",
+            "area": "Wiesbaden",
+            "mail": "brianundjohanna@gmail.com"
+        },
+        {
             "name": "Anna & Carsten",
             "area": "Frankfurt Höchst",
             "homepage": "http://swing-frankfurt.de"
         },
         {   
+            "name": "Stephanie",
+            "homepage": "https://sugarfootswing.de/about-us",
+            "area": "Frankfurt"
+        },
+        {   
             "name": "Bruno",
-            "homepage": "http://tanzatelier.info/tanzschule-in-wiesbaden/unser-team/bruno-hargittay",
+            "homepage": "https://sugarfootswing.de/about-us",
             "area": "Wiesbaden und Frankfurt"
         },
         {
@@ -30,11 +40,6 @@
             "mail": "ausderzeitgefallen@gmail.com"
         },
         {
-            "name": "Andy & Jeanne",
-            "desc": "Swing Cats - Mainz",
-            "homepage": "http://swingcats-mainz.de"
-        },
-        {
             "name": "Birgit",
             "area": "Frankfurt und Offenbach",
             "mail": "birgit@hop-the-main.de"
@@ -43,15 +48,6 @@
             "name": "Lindy Farr",
             "area": "Mainz",
             "mail": "Lindy_Farr@web.de"
-        },
-        {
-            "name": "SwingJets",
-            "area": "Offenbach",
-            "homepage": "https://swingjets.de"
-        },
-        {
-            "name": "Katja & Hennie",
-            "area": "Frankfurt"
         }
     ]
 }

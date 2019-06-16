@@ -63,7 +63,11 @@
             "name": "Frankfurt Blues Dancing",
             "area": "Frankfurt",
             "face_group": 395357990544635,
-            "public": true
+            "public": true,
+            "desc": {
+                "de": "rund ums Blues-Tanzen in {area}",
+                "en": "all about Blues-Dancing in {area}"
+            }
         },
         {
             "name": "Hop The Main",
@@ -76,7 +80,10 @@
             "name": "Balboa in Frankfurt",
             "area": "Frankfurt",
             "face_group": 392286414141165,
-            "desc": "",
+            "desc": {
+                "de": "rund ums Balboa-Tanzen in {area}",
+                "en": "all about Balboa-Dancing in {area}"
+            },
             "public": false
           }
     ]

@@ -7,28 +7,38 @@
         {
             "name": "Tanzschule Monika Bauer",
             "area": "Frankfurt Bahnhofsviertel",
-            "homepage": "https://monika-bauer.de"
+            "homepage": "https://monika-bauer.de",
+            "facebook": "https://facebook.com/Tanzschule-Monika-Bauer-162684157077418"
         },
         {
             "name": "Die Tanzschule Carsten Weber",
             "area": "Frankfurt Höchst",
-            "homepage": "http://die-tanzschule.de"
+            "homepage": "http://die-tanzschule.de",
+            "facebook": "https://facebook.com/dieTanzschule.C.Weber"
         },
         {
             "name": "Taktgefühl Tanzschule",
             "area": "Friedrichsdorf",
-            "homepage": "https://taktgefuehl.de/erwachsene/lindy-hop"
+            "homepage": "https://taktgefuehl.de/erwachsene/lindy-hop",
+            "facebook": "https://facebook.com/taktgefuehltanzschule"
         },
         {
-            "name": "Balboa-Heiner",
+            "name": "Tanzwerkstatt Darmstadt",
             "area": "Darmstadt",
-            "desc": "@ [Tanzwerkstatt](http://tanzwerkstatt.de)",
-            "homepage": "http://balboa-heiner.de"
+            "homepage": "https://www.tanzwerkstatt.de",
+            "facebook": "https://facebook.com/Tanzwerkstatt-Darmstadt-104912719583679"
         },
         {
             "name": "SugarfootSwing",
             "area": "Frankfurt Bockenheim",
-            "homepage": "https://sugarfootswing.de"
+            "homepage": "https://sugarfootswing.de",
+            "facebook": "https://facebook.com/sugarfootswing.de"
+        },
+        {
+            "name": "Tanzatelier Ralf S",
+            "area": "Wiesbaden",
+            "homepage": "https://tanzatelier.info",
+            "facebook": "https://facebook.com/Tanzatelier.RalfS.Tanzschule.Wiesbaden"
         }
     ]
 }
